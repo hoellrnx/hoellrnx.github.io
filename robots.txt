@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://hoellrnx.github.io/sitemap/sitemap.txt
